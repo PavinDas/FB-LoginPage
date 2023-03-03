@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica New, Helvetica,Arial,sans-serif;
+}
+
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+
+.logo-text{
+    text-decoration: none;
+    color: #fff;
+    font-family: Helvetica New, Helvetica,Arial,sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 170px;
+}
+
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+
+.login-controls{
+    margin-left: 115px;
+}
+
+.foregotten-label{
+    color: #9cb4d8;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.submit-button{
+    background-color: #4267b2;
+    color: white;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.submit-button:hover{
+    background-color: #29487d;
+}
+
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 757px;
+}
+
+.left{
+    width: 50%;
+    float: left;
+    padding-left: 130px;
+    padding-top: 50px;
+}
+
+.left-text{
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.right{
+    width: 40%;
+    float: left;
+}
+
+.right-input{
+    margin: 6px;
+    height: 30px;
+    width: 190px;
+    border-radius: 4px;
+    font-size: 16px;
+    border-color: white;
+    border: grey solid 0.5px;
+}
+
+.right-input-2{
+    margin: 6px;
+    height: 30px;
+    width: 403px;
+    border-radius: 4px;
+    font-size: 16px;
+    border-color: white;
+    border: grey solid 0.5px;
+}
+
+.label-txt{
+    color: grey;
+    margin-left: 6px;
+}
+
+.date-input{
+    margin: 6px;
+    height: 20px;
+    width: 190px;
+    border-radius: 4px;
+    font-size: 16px;
+    border-color: white;
+    border: grey solid 0.5px;
+
+}
+
+.button{
+    margin-left: 6px;
+    margin-top: 20px;
+    background: linear-gradient(rgb(1, 209, 1),green);
+    height: 25px;
+    width: 100px;
+    color: white;
+    border: none;
+}
+
+
+#togglePassword{
+    margin-left: -40px; 
+cursor: pointer;
+}
+
+.footer{
+    margin-top: 0;
+    padding-top: 10px;
+    height: 150px;
+    width: 100%;
+    background: #7381a0;
+}
+
+.footer-cpy{
+    color: rgb(4, 26, 46);
+    margin-left: 47%;
+}
+
+.footer-txt{
+    text-decoration: none;
+    font-family: sans;
+    color: rgb(4, 26, 46);
+    margin-left: 48.2%;
+}
